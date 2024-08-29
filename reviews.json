@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Great professor, explains concepts well but the exams are tough."
+      },
+      {
+        "professor": "Dr. Robert Lee",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Very knowledgeable and approachable. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Sarah Kim",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Lectures can be a bit dry, but overall fair."
+      },
+      {
+        "professor": "Dr. Michael Green",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Hard to follow during lectures, needs to improve teaching style."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Amazing! Makes literature come alive."
+      },
+      {
+        "professor": "Dr. Jason Carter",
+        "subject": "History",
+        "stars": 4,
+        "review": "Good lecturer, but reading load is heavy."
+      },
+      {
+        "professor": "Dr. Nancy White",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Engaging and thought-provoking discussions."
+      },
+      {
+        "professor": "Dr. William Harris",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Content is difficult, but he provides help during office hours."
+      },
+      {
+        "professor": "Dr. Rachel Young",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Very interesting lectures, but sometimes unclear instructions."
+      },
+      {
+        "professor": "Dr. John Davis",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Best professor I've ever had!"
+      },
+      {
+        "professor": "Dr. Anna Thompson",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Interesting material but very disorganized."
+      },
+      {
+        "professor": "Dr. Paul Brown",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Very passionate about the subject. Exams are challenging."
+      },
+      {
+        "professor": "Dr. Jessica Taylor",
+        "subject": "Anthropology",
+        "stars": 2,
+        "review": "Hard to understand, lectures are too fast-paced."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Clear explanations, makes programming fun."
+      },
+      {
+        "professor": "Dr. Karen Roberts",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Great class, but a lot of outside reading."
+      },
+      {
+        "professor": "Dr. Steven Perez",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Knows his stuff but is not very engaging."
+      },
+      {
+        "professor": "Dr. Laura Clark",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Great professor, very patient with questions."
+      },
+      {
+        "professor": "Dr. James Miller",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Incredible insights and always encourages deep thinking."
+      },
+      {
+        "professor": "Dr. Maria Evans",
+        "subject": "Business Management",
+        "stars": 3,
+        "review": "Good content but can be a bit dull at times."
+      },
+      {
+        "professor": "Dr. Thomas Adams",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Fascinating course and very helpful professor."
+      }
+    ]
+  }
+  
